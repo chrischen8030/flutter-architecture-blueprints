@@ -1,6 +1,9 @@
 # Flutter Architecture Blueprints
 
 
+このアーキテクチャーの元の作者のgit:https://github.com/wasabeef/flutter-architecture-blueprints
+
+
 <p align="center">
   <img src="https://github.com/wasabeef/art/raw/master/flutter-architecture-blueprints/cover.png" />
 </p>
